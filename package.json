@@ -1,0 +1,8 @@
+{
+  "name": "go-explorations-1",
+  "packageManager": "yarn@3.3.1",
+  "devDependencies": {
+    "@vercel/build-utils": "^6.7.2",
+    "vercel": "^29.1.1"
+  }
+}
